@@ -4,7 +4,7 @@ This repository contains my homework submissions for the Data Visualization cour
 
 ## Homework List
 
-1. [Homework 1](./Homeworks/HW1/README.md): Description and code for Homework 1.
+1. [Homework 1](./Homeworks/Hw1/README.md): Description and code for Homework 1.
 
 ## How to Use
 
@@ -15,4 +15,4 @@ This repository contains my homework submissions for the Data Visualization cour
    - **README.md**: Instructions and explanations for that specific homework.
 
 ## Contact
-For any issues or questions, please contact me at [phanlekimtinh@gmail.com].
+For any issues or questions, please contact me at phanlekimtinh@gmail.com.
