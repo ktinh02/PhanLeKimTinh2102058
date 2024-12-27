@@ -13,6 +13,3 @@ This repository contains my homework submissions for the Data Visualization cour
 3. Each folder contains:
    - **Code files**: The Python scripts for the homework.
    - **README.md**: Instructions and explanations for that specific homework.
-
-## Contact
-For any issues or questions, please contact me at phanlekimtinh@gmail.com.
