@@ -17,8 +17,6 @@ This repository is divided into the following sections:
   - Any **datasets** or supporting files required for the tasks.
 #### Homework List
 1. [Homework 1: Calculate Probability](./Homeworks/Hw1/hw1.py)
-   - Objective: Calculate the probability of an event occurring based on user input.
-   - Includes: A Python script (`hw1.py`) that demonstrates error handling, user input, and calculations.
 
 *More homeworks will be added as the course progresses.*
 
