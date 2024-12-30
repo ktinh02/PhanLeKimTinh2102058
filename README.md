@@ -1,4 +1,4 @@
-# Data Visualization Course Repository  
+# DATA VISUALIZATION COURSE 
 ### by Phan Lê Kim Tình (ID: 2102058)
 
 Welcome to my **Data Visualization Course Repository**. This repository serves as a collection of all the coursework of the Data Visualization course. It includes homework assignments, the mid-term project, and the final project. 
@@ -15,6 +15,12 @@ This repository is divided into the following sections:
   - A **README.md** explaining the assignment objectives and methodology.
   - **Code files** (Python scripts or Jupyter notebooks).
   - Any **datasets** or supporting files required for the tasks.
+#### Homework List
+1. [Homework 1: Calculate Probability](./Homeworks/Hw1/hw1.py)
+   - Objective: Calculate the probability of an event occurring based on user input.
+   - Includes: A Python script (`hw1.py`) that demonstrates error handling, user input, and calculations.
+
+*More homeworks will be added as the course progresses.*
 
 ### **2. Mid-Term Project** 
 
