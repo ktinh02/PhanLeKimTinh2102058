@@ -4,7 +4,7 @@ This homework focuses on implementing a Python script to calculate the probabili
 
 ## Files Included
 - **`hw1.py`**: The main Python script to calculate probability.
-- **`requirements.txt`**: A list of required Python libraries (if any are needed).
+- **`requirements.txt`**: A list of required Python libraries.
 
 ---
 
